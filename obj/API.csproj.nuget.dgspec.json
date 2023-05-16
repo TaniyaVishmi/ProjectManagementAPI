@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tani\\Desktop\\PMT\\API\\API.csproj": {}
+    "C:\\Users\\Tani\\Desktop\\PMT-API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tani\\Desktop\\PMT\\API\\API.csproj": {
+    "C:\\Users\\Tani\\Desktop\\PMT-API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tani\\Desktop\\PMT\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Tani\\Desktop\\PMT-API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Tani\\Desktop\\PMT\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Tani\\Desktop\\PMT-API\\API.csproj",
         "packagesPath": "C:\\Users\\Tani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tani\\Desktop\\PMT\\API\\obj\\",
+        "outputPath": "C:\\Users\\Tani\\Desktop\\PMT-API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tani\\AppData\\Roaming\\NuGet\\NuGet.Config",
